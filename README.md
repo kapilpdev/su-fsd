@@ -2,7 +2,22 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+### Prerequisites
+
+Make sure you have [Node.js](https://nodejs.org/) installed. This project is tested with Node.js version 20.
+
+### Installing Node.js 20
+
+To use Node.js version 20, you can use a version manager like [nvm](https://github.com/nvm-sh/nvm). Install nvm by following the instructions on the [nvm GitHub repository](https://github.com/nvm-sh/nvm#installing-and-updating).
+
+Then, use the following command to install and use Node.js version 20:
+
+```bash
+nvm install 20
+nvm use 20
+```
+
+run the development server:
 
 ```bash
 npm run dev
